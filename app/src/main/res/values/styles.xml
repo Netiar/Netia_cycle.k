@@ -1,0 +1,9 @@
+<resources>
+
+  <style name="CustomText" parent="android:Widget.Material.TextView">
+    <item name="android:textColor">?colorAccent</item>
+    <item name="android:textStyle">italic</item>
+    <item name="android:fontFamily">monospace</item>
+  </style>
+
+</resources>
